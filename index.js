@@ -22,5 +22,5 @@ if (firstAnswer === 'Yes') {
         let thirdAnswer = window.alert('How blissfully ignorant of you')
     } else if (secondAnswer === 'Yes') { 
         let thirdAnswer = window.prompt('Indeed. It seems inevitable that impermanence is the nature of existence. Do you welcome your end?')
-    }
 }
+} 
